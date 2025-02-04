@@ -26,7 +26,7 @@ I'm a passionate developer specializing in building scalable and high-performanc
 - Performance optimization in **Next.js** applications.
 
 ### 📫 Connect with Me:
-- **LinkedIn:** [linkedin.com/in/anasbandija](http://linkedin.com/in/anas-bandija)
+- **LinkedIn:** [linkedin.com/in/anasbandija](https://www.linkedin.com/in/anas-bandija/)
 - **GitHub:** [github.com/AnasBandija](https://github.com/AnasBandija)
 - **Email:** [anusyounus254@gmail.com](anusyounus254@gmail.com)
 
