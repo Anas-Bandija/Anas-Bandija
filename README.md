@@ -1,5 +1,5 @@
 <img src="./images/Hey I am Anas Bandija.png" alt="bg" width="full"/>
-# Hi there! 👋 I'm Anas Bandija
+### Hi there! 👋 I'm Anas Bandija
 
 ## 🚀 Full-Stack Web & Mobile App Developer
 
